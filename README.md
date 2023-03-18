@@ -2,7 +2,7 @@
 
 This is a simple web-based analog clock built using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds using a classic analog clock design.
 
-![Screenshot]
+![Screenshot](Clock.png)
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-You can see a live demo of the clock by clicking [here](
+You can see a live demo of the clock by clicking [here](https://karthik-beta.github.io/Analog-Clock/)
 
 ### Download ZIP
 
