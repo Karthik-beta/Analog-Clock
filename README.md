@@ -8,7 +8,9 @@ This is a simple web-based analog clock built using HTML, CSS, and JavaScript. I
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Installing
+## Demo
+
+You can see a live demo of the clock by clicking [here](
 
 ### Download ZIP
 
